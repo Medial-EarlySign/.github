@@ -4,7 +4,12 @@
 
 This award-winning framework used in production across multiple sites and recognized in the [CMS AI Health Outcomes Challenge](https://www.cms.gov/priorities/innovation/innovation-models/artificial-intelligence-health-outcomes-challenge) offers an end-to-end solution for high-stakes medical AI.
 
-The repository provides the **Wikimedial**, a complete knowledge base for our proprietary and open sourced ML infrastructure and workflows.
+The repository provides the:
+
+* **wiki**: a complete knowledge base for our proprietary and open sourced ML infrastructure and workflows.
+* **MR_LIBS**: The infrastructure library to train, test, deploy our models
+* **MR_Tools**: Utilities that uses MR_LIBS library and were used directly to develop our products
+
 
 ---
 
