@@ -6,9 +6,9 @@ This award-winning framework used in production across multiple sites and recogn
 
 The repository provides the:
 
-* **wiki**: a complete knowledge base for our proprietary and open sourced ML infrastructure and workflows.
-* **MR_LIBS**: The infrastructure library to train, test, deploy our models
-* **MR_Tools**: Utilities that uses MR_LIBS library and were used directly to develop our products
+* [Wiki](https://medial-earlysign.github.io/MR_WIKI): a complete knowledge base for our proprietary and open sourced ML infrastructure and workflows.
+* [MR_LIBS](https://github.com/Medial-EarlySign/MR_Libs): The infrastructure library to train, test, deploy our models
+* [MR_Tools](https://github.com/Medial-EarlySign/MR_Tools): Utilities that uses MR_LIBS library and were used directly to develop our products
 
 
 ---
