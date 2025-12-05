@@ -8,7 +8,7 @@ The repository provides the:
 
 * [Wiki](https://medial-earlysign.github.io/MR_Wiki): a complete knowledge base for our proprietary and open sourced ML infrastructure and workflows.
 * [medpython](https://github.com/Medial-EarlySign/medpython): The infrastructure library to train, test, deploy our models
-* [MR_Tools](https://github.com/Medial-EarlySign/MR_Tools): Utilities that uses MR_LIBS library and were used directly to develop our products
+* [MR_Tools](https://github.com/Medial-EarlySign/MR_Tools): Utilities that uses medpython library and were used directly to develop our products
 
 
 ---
