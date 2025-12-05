@@ -7,7 +7,7 @@ This award-winning framework used in production across multiple sites and recogn
 The repository provides the:
 
 * [Wiki](https://medial-earlysign.github.io/MR_Wiki): a complete knowledge base for our proprietary and open sourced ML infrastructure and workflows.
-* [MR_LIBS](https://github.com/Medial-EarlySign/MR_Libs): The infrastructure library to train, test, deploy our models
+* [medpython](https://github.com/Medial-EarlySign/medpython): The infrastructure library to train, test, deploy our models
 * [MR_Tools](https://github.com/Medial-EarlySign/MR_Tools): Utilities that uses MR_LIBS library and were used directly to develop our products
 
 
@@ -33,5 +33,5 @@ Start your exploration by reviewing the high-level **[Wikimedial Overview]** and
 | Section | Description | Link |
 | :--- | :--- | :--- |
 | **Wikimedial Overview** | The essential starting point for all users. | [View Overview](https://medial-earlysign.github.io/MR_Wiki/index.html) |
-| **Infrastructure C Library** | Deep dive into the core technical components. | [View C Library Docs](https://medial-earlysign.github.io/MR_Wiki/Infrastructure%20C%20Library/index.html) |
+| **Tuttorials** | The essential starting point for all users. | [View Overview](https://medial-earlysign.github.io/MR_Wiki/Tutorials) |
 | **Installation** | Environment setup (Python API & C++ Library). | [View Installation](https://medial-earlysign.github.io/MR_Wiki/Installation/index.html) |
