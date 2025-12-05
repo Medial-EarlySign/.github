@@ -32,6 +32,6 @@ Start your exploration by reviewing the high-level **[Wikimedial Overview]** and
 
 | Section | Description | Link |
 | :--- | :--- | :--- |
-| **Wikimedial Overview** | The essential starting point for all users. | [View Overview](https://medial-earlysign.github.io/MR_WIKI/index.html) |
-| **Tutorials** | Deep dive into the core technical components. | [View C Library Docs](https://medial-earlysign.github.io/MR_WIKI/Tutorials) |
-| **Installation** | Environment setup (Python API & C++ Library). | [View Installation](https://medial-earlysign.github.io/MR_WIKI/Installation/index.html) |
+| **Wikimedial Overview** | The essential starting point for all users. | [View Overview](https://medial-earlysign.github.io/MR_Wiki/index.html) |
+| **Tutorials** | Deep dive into the core technical components. | [Tutorials](https://medial-earlysign.github.io/MR_Wiki/Tutorials) |
+| **Installation** | Environment setup (Python API & C++ Library). | [View Installation](https://medial-earlysign.github.io/MR_Wiki/Installation/index.html) |
